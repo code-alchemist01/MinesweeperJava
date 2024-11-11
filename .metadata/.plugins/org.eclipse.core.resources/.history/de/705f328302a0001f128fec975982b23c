@@ -1,0 +1,24 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.util.ArrayList;
+import java.util.Random;
+
+import javax.swing.JFrame;
+
+
+
+public class Minesweeper {
+	
+	int tileSize = 70;
+	int numRows = 8;
+	int numCols = numRows;
+	
+	JFrame frame = new JFrame("Mayın Tarlası");
+
+	public Minesweeper() {
+		frame.setVisible(true);
+		
+	}
+	
+	
+}
