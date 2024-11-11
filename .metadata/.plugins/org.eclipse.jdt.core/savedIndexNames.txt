@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\Kutay\Desktop\Java_Project\Minesweeper\.metadata\.plugins\org.eclipse.jdt.core
+3413270776.index
+450736440.index
